@@ -1,10 +1,10 @@
-.left-player-body{
+.left-player-body {
   width: 68%;
   margin-right: 2%;
   height: 100%;
 }
 
-.right-player-body{
+.right-player-body {
   width: 30%;
   height: 100%;
   display: flex;
